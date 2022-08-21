@@ -34,6 +34,7 @@ rconsoleprint('Hello! This is an animation grabber v3 console.\nIt is the output
 -- Below is what lets you steal ported animations
 if game.PlaceId == 5771467270 or game.PlaceId == 8221489139 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BlastingStone/MyLuaStuff/master/ttd3bypass.lua"))()
+    -- Backup: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/utils/ttd3bypass.lua
     task.wait()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BlastingStone/MyLuaStuff/master/universal_antisteal_bypass.lua"))()
 else
