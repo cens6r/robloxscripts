@@ -37,8 +37,10 @@ if game.PlaceId == 5771467270 or game.PlaceId == 8221489139 then
     -- Backup: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/utils/ttd3bypass.lua
     task.wait()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BlastingStone/MyLuaStuff/master/universal_antisteal_bypass.lua"))()
+    -- Backup: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/utils/universal_anticheat_bypass.lua
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BlastingStone/MyLuaStuff/master/universal_antisteal_bypass.lua"))()
+    -- Backup: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/utils/universal_anticheat_bypass.lua
 end
 
 -- Instances:
