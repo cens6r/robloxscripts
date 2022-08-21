@@ -5,3 +5,4 @@ _G.Settings = {
 }
 
 loadstring(game:HttpGet("https://pastebin.com/raw/VEVdaVdf"))()
+-- Backup URL: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/utils/soundhaxx_src.lua
