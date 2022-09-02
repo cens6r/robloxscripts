@@ -2,4 +2,4 @@
 
 --backup plan failed so here is the original script back
 --haha sang you came here just to read this youre so curious lmao 
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/shidemuri/scripts/main/newuilib.lua"))() 
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/shidemuri/scripts/main/newuilib.lua"))() -- archive: https://github.com/cens6r/robloxscripts/raw/main/scripts/newuilib.lua
