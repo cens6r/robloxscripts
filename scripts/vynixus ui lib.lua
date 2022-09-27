@@ -37,8 +37,8 @@ local Player = Players.LocalPlayer
 local Mouse = Player:GetMouse()
 
 local SelfModules = {
-	UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/UI.lua"))(),
-	Directory = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Directory.lua"))(),
+	UI = loadstring(game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/etc/vynixus%20ui%20lib%20internal.lua"))(), -- original: https://raw.githubusercontent.com/RegularVynixu/Utilities/main/UI.lua
+	Directory = loadstring(game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/utils/directory.lua"))(), -- original: https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Directory.lua
 }
 local Storage = { Connections = {}, Tween = { Cosmetic = {} } }
 
