@@ -303,7 +303,7 @@ Section:AddToggle("Rainbow UI", {}, function(bool)
 end)
 
 Section:AddButton("Copy UI Repository", function()
-    setclipboard("https://raw.githubusercontent.com/RegularVynixu/UI-Libraries/main/Vynixius")
+    setclipboard("https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/vynixus%20ui%20lib.lua") -- original: https://raw.githubusercontent.com/RegularVynixu/UI-Libraries/main/Vynixius
 end)
 
 -- Finished Loading
