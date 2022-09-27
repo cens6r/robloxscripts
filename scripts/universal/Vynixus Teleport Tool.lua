@@ -16,7 +16,7 @@
 -- UI Library
 
 local Library = {
-    Source = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/UI-Libraries/main/Vynixius/Source.lua"))(),
+    Source = loadstring(game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/vynixus%20ui%20lib.lua"))(), -- original: https://raw.githubusercontent.com/RegularVynixu/UI-Libraries/main/Vynixius/Source.lua
     Items = {},
 }
 
