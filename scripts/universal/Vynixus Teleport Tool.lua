@@ -236,7 +236,7 @@ Library.Items.Save = Section:AddButton("Save", function()
             output = output.. string.format("Vector3.new(%d, %d, %d)".. (i ~= #Points and ", " or " "), math.round(pos.X * 100) / 100, math.round(pos.Y * 100) / 100, math.round(pos.Z * 100) / 100)
         end
         
-        writefile(Directory.Root.. "/".. Library.Items.SaveName.Box.Text.. ".lua", output.. "}\n\n".. game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Teleport%20Tool/Output.lua"))
+        writefile(Directory.Root.. "/".. Library.Items.SaveName.Box.Text.. ".lua", output.. "}\n\n".. game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/utils/vynixus%20teleport%20output.lua")) -- original: https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Teleport%20Tool/Output.lua
         writefile(Directory.Configs.. "/".. Library.Items.SaveName.Box.Text.. ".json", HS:JSONEncode(config))
     end
 end)
