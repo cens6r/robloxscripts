@@ -50,7 +50,7 @@ local Points = {}
 
 local SelfModules = {
 	Directory = loadstring(game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/utils/directory.lua"))(), -- original: https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Directory.lua
-    Discord = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Discord.lua"))(),
+    Discord = loadstring(game:HttpGet("https://github.com/cens6r/robloxscripts/raw/main/scripts/utils/discord.lua"))(), -- original: https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Discord.lua
     Inviter = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))(),
 }
 
