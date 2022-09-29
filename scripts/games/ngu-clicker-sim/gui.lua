@@ -1,4 +1,9 @@
 -- game: https://www.roblox.com/games/4983006874/NGU-CLICKER-SIMULATOR
+--[[
+Auto Clicker
+Auto Upgrade
+Auto Pet Evolve
+]]
 
 --// Service \\--
 local Players = game:GetService("Players")
