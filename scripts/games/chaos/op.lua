@@ -1,5 +1,6 @@
---https://discord.gg/8gNrnWmgcb
+-- developers cord: https://discord.gg/8gNrnWmgcb
 --[[
+game: https://www.roblox.com/games/6441847031/CHAOS
 dupe weapons
 unlock all gamepasses
 mass place c4 and grenade and more :flushed:]]
