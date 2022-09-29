@@ -8,3 +8,6 @@ small collection of cool roblox scripts
 - [UI-Libs](./scripts/ui-libs)
 - [Utils](./scripts/utils)
 - [Internals (ignore)](./scripts/etc)
+
+## script not working?
+its probably because i made an archive of a loadstring, and then changed the original files directory. if theres an original url as a comment, use it. if it doesnt work or it doesnt exist use githubs search feature to try finding the original url and use that instead. sorry if this causes any inconviniences, feel free to open a pull request to help me and everyone else.
