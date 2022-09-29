@@ -1,7 +1,7 @@
 -- thread: https://scriptblox.com/script/Universal-Script-universal-google-translator-scirpt-6043
 -- Roblox Universal Script. New nice and cool script. This script can translate many words from different languages, enjoy!
 
-loadstring(game:HttpGetAsync('https://i.qts.life/r/ChatInlineTranslator.lua', true))()
+loadstring(game:HttpGetAsync('https://github.com/cens6r/robloxscripts/raw/main/scripts/etc/chatlinetranslator.lua', true))() -- original: https://i.qts.life/r/ChatInlineTranslator.lua
 --[[
 af = "Afrikaans",
     sq = "Albanian",
