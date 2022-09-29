@@ -1,5 +1,12 @@
 -- Synapse X in game executor reworked by Cremi for scriptblox.com
 
+--[[
+
+Synapse X rework. Thanks for @AggressiveDude to share. I add new backdoor.exe, fix some text, add new buttons. Enjoy! (If that get likes, i start doing Synapse X v3 version 😃)
+
+Edited 28.09.2022: Synapse X V3 starting developing in 03.10.2022. (With publish you get open source script)
+]]
+
 pcall(function() game.CoreGui["Synapse X"]:Destroy() end)
 
 local SynapseXreal = Instance.new("ScreenGui")
