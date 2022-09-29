@@ -1,3 +1,9 @@
+-- found on rip discord
+-- https://discord.gg/KMS85xNSsg
+
+-- credits: skyreal#5026 (id: 695782494603313222)
+-- search discord ids on https://discord.id
+
 -- script desc:   auto spam i made in like 2 mins
 
 RepStorage = game:GetService("ReplicatedStorage")
