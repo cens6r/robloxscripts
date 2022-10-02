@@ -20,7 +20,7 @@ Script Detail looker
 (Images currently broken)
 ]]
 
-local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/PuppyRoblox/ScriptBlox-UI/main/ui_main.lua"))()
+local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/PuppyRoblox/ScriptBlox-UI/main/ui_main.lua"))() -- alt: https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/etc/scriptblox-ui-beta.lua
 local UIS = game:GetService("UserInputService")
 
 local getasset = getcustomasset or getsynasset
