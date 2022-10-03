@@ -6,6 +6,6 @@ just gonna upload random stuff related to roblox i find here!
 <br>
 [DecompCrasher.rbxm](https://github.com/cens6r/robloxscripts/blob/main/scripts/etc/other_stuff/DecompCrasher.rbxm) - Crashes some script decompilers.
 <br>
-[694610398.rbxm](https://github.com/cens6r/robloxscripts/blob/main/scripts/etc/other_stuff/694610398.rbxm) - Script hub ui for 
+[694610398.rbxm](https://github.com/cens6r/robloxscripts/blob/main/scripts/etc/other_stuff/694610398.rbxm) - Script hub ui for [script-hub.lua](https://github.com/cens6r/robloxscripts/blob/main/scripts/trolling/clientreplication/script-hub.lua)
 <br>
-[698126933.rbxm](https://github.com/cens6r/robloxscripts/blob/main/scripts/etc/other_stuff/698126933.rbxm) - Music script for 
+[698126933.rbxm](https://github.com/cens6r/robloxscripts/blob/main/scripts/etc/other_stuff/698126933.rbxm) - Music script for [script-hub.lua](https://github.com/cens6r/robloxscripts/blob/main/scripts/trolling/clientreplication/script-hub.lua)
