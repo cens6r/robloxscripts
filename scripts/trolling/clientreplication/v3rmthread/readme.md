@@ -5,4 +5,4 @@ Original Thread: [https://v3rmillion.net/showthread.php?tid=1185367](https://v3r
 
 <br>
 
-<img src="https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/trolling/clientreplication/v3rmthread/thread1.png" width="45%" height="45%">
+<img src="https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/trolling/clientreplication/v3rmthread/thread1.png" width="90%" height="90%">
