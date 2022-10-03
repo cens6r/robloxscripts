@@ -10,7 +10,8 @@ Original Thread: [https://v3rmillion.net/showthread.php?tid=1185367](https://v3r
 ## Preview
 [Original Streamable](https://streamable.com/rq00h9)
 <br>
-[Archive 1](https://cdn.discordapp.com/attachments/683756637261004878/1026410732545380372/rq00h9.mp4)
+[Archive 1 (Discord Attatchment)](https://cdn.discordapp.com/attachments/683756637261004878/1026410732545380372/rq00h9.mp4)
+[Archive 2 (Archive.org)](https://archive.org/details/rq00h9)
 
 ## Game Link
 [https://www.roblox.com/games/10218821851/Client-Replication](https://www.roblox.com/games/10218821851/Client-Replication)
