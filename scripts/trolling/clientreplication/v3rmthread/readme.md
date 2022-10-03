@@ -10,7 +10,4 @@ Original Thread: [https://v3rmillion.net/showthread.php?tid=1185367](https://v3r
 ## Preview
 [Original Streamable](https://streamable.com/rq00h9)
 <br>
-<video width="90%" height="90%" controls>
-<source src="https://cdn.discordapp.com/attachments/683756637261004878/1026410732545380372/rq00h9.mp4" type="video/mp4">
-  Video could not LOAD
-</video>
+[Archive 1](https://cdn.discordapp.com/attachments/683756637261004878/1026410732545380372/rq00h9.mp4)
