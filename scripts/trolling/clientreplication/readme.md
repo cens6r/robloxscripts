@@ -4,6 +4,7 @@ These scripts are designed to work in the game: [Client Replication](https://www
 However they can be used differently/modified for trolling purposes.
 
 ## Credits
+- Client Replication [Discord Server](https://discord.gg/n7PDg85rUF)
 - SMUG#0558 (id: 732749697936261280): [made this awesome collection](https://drive.google.com/drive/folders/16KfApobTF3Tpk8chkTW-cr_WWA8kIwHz)
 
 ## Tools
