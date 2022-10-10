@@ -26,7 +26,6 @@ Hook.Type = {
 ```
 <br>
 so, the Hook accepts named arguments:
-<br>
 ```lua
 params = params or {
     Type = "The hook type to use, refer to Hook.Type",
