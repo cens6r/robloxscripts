@@ -24,9 +24,8 @@ Hook.Type = {
    NewIndex = "__newindex"
 }
 ```
-<br>
+### Named Arguments
 so, the Hook accepts named arguments:
-<br>
 ```lua
 params = params or {
     Type = "The hook type to use, refer to Hook.Type",
@@ -34,8 +33,9 @@ params = params or {
     Method = "The namecall method if namecall is the type",
     Index = "The index if index is the type",
     Func = "The function modifies the arguments"
-}```
-<br>
+}
+```
+### Anti-Kick Example
 with the info above, we can create a simple anti-kick `__namecall` hook like this:
 <br>
 ```lua
@@ -49,14 +49,14 @@ local ncHook = Hook {
 }
 
 ```
-<br>
+### Disconnection
 as you can see, it's way less code.
 not only that, but you can also disconnect the hooks quite easily, simply by doing:
 <br>
 ```lua
 ncHook:Disconnect()
 ```
-<br>
+### Arguments
 u might have noticed the args parameter inside the hook's Func argument: it is used to modify args that are passed
 <br>
 the args are passed like following:
@@ -66,7 +66,7 @@ local args = {...}
 
 params.Func(args)
 ```
-<br>
+### Modifying namecall hook arguments
 this means that the first arg, which is the instance of the hook, is not passed along
 <br>
 example modifying arguments of namecall hook by using the chat event:
