@@ -28,6 +28,7 @@ Hook.Type = {
 so, the Hook accepts named arguments:
 <br>
 ```lua
+
 params = params or {
     Type = "The hook type to use, refer to Hook.Type",
     Target = "The target instance / name of the target instance",
