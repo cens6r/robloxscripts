@@ -38,7 +38,6 @@ params = params or {
 }
 ```
 <br>
-<br>
 with the info above, we can create a simple anti-kick `__namecall` hook like this:
 <br>
 ```lua
@@ -53,14 +52,12 @@ local ncHook = Hook {
 
 ```
 <br>
-<br>
 as you can see, it's way less code.
 not only that, but you can also disconnect the hooks quite easily, simply by doing:
 <br>
 ```lua
 ncHook:Disconnect()
 ```
-<br>
 <br>
 u might have noticed the args parameter inside the hook's Func argument: it is used to modify args that are passed
 <br>
@@ -87,7 +84,6 @@ Hook {
    end
 }
 ```
-<br>
 <br>
 that concludes it
 i dont think this is particularly useful to anyone other than myself, but feel free to use it
