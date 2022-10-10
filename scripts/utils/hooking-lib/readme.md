@@ -26,6 +26,7 @@ Hook.Type = {
 ```
 <br>
 so, the Hook accepts named arguments:
+<br>
 ```lua
 params = params or {
     Type = "The hook type to use, refer to Hook.Type",
@@ -33,8 +34,7 @@ params = params or {
     Method = "The namecall method if namecall is the type",
     Index = "The index if index is the type",
     Func = "The function modifies the arguments"
-}
-```
+}```
 <br>
 with the info above, we can create a simple anti-kick `__namecall` hook like this:
 <br>
