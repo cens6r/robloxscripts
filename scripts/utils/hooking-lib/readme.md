@@ -86,3 +86,6 @@ Hook {
 <br>
 that concludes it
 i dont think this is particularly useful to anyone other than myself, but feel free to use it
+
+# Credits
+https://v3rmillion.net/showthread.php?tid=1190428
