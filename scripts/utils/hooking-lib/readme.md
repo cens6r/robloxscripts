@@ -71,7 +71,7 @@ params.Func(args)
 this means that the first arg, which is the instance of the hook, is not passed along
 <br>
 example modifying arguments of namecall hook by using the chat event:
-``lua
+```lua
 Hook {
    Type = Hook.Type.Namecall,
    Target = "SayMessageRequest",
