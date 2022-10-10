@@ -1,5 +1,5 @@
 # STX
-notification lib i found
+notification lib i found [here](https://github.com/BocusLuke)
 ## Example
 ```lua
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
