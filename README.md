@@ -1,5 +1,5 @@
 # robloxscripts
-small collection of cool roblox scripts
+small collection of cool roblox scripts, i mainly use this for storing ui libs and utils tho!
 
 ## categories
 - [Games](./scripts/games)
