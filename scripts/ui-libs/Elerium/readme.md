@@ -16,6 +16,9 @@ I would like to give everyone the opportunity to use this :)
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/ui-libs/Elerium/source.lua"))()
 ```
 
+## docs
+[View docs here](https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/ui-libs/Elerium/docs/raw.txt)
+
 ## img previews
 <img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/Elerium/media/ZLvNAqi-1422145433.png">
 
