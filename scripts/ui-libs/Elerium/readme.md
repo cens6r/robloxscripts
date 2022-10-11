@@ -11,6 +11,11 @@ Some people (which was not invited to Elerium) got hold of the source, and liter
 <br>
 I would like to give everyone the opportunity to use this :)
 
+## loadstring
+```lua
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/robloxscripts/main/scripts/ui-libs/Elerium/source.lua"))()
+```
+
 ## img previews
 <img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/Elerium/media/ZLvNAqi-1422145433.png">
 
