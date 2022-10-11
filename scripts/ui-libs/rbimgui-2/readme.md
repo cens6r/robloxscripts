@@ -104,15 +104,11 @@ folder1.open()
 <img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/kc8Ha3Y-3903281707.png?raw=true">
 
 ## video previews
-<video width="320" height="240" controls>
-  <source src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/bbbd861e8316fceb5b092fb46be08f3b.mp4" type="video/mp4">
-  Video failed to load
-</video>
+<a href="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/bbbd861e8316fceb5b092fb46be08f3b.mp4" target="_blank">Download Video</a>
+<br>
 <a href="https://gyazo.com/bbbd861e8316fceb5b092fb46be08f3b" target="_blank">Gyazo</a>
 <br>
-<video width="320" height="240" controls>
-  <source src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/6e1eac900c292babacf3a69c8ab0fcbb.mp4" type="video/mp4">
-  Video failed to load
-</video>
+<br>
+<a href="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/6e1eac900c292babacf3a69c8ab0fcbb.mp4" target="_blank">Download Video</a>
     <br>
 <a href="https://gyazo.com/6e1eac900c292babacf3a69c8ab0fcbb" target="_blank">Gyazo</a>
