@@ -6,6 +6,10 @@ local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singul
 ```
 ## documentations
 [Documentation PDF](https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/rbimgui-2-docs.pdf)
+
+## previews
+<img src="" width="45%" height="45%">
+
 ## example
 ```lua
 local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/rbimgui-2/main/rbimgui-2.lua"))()
