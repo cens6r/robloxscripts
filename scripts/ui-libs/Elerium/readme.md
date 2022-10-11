@@ -10,3 +10,6 @@ The reason I am releasing this is for two reasons:
 Some people (which was not invited to Elerium) got hold of the source, and literally stealing credits.
 <br>
 I would like to give everyone the opportunity to use this :)
+
+## img previews
+<img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/Elerium/media/ZLvNAqi-1422145433.png">
