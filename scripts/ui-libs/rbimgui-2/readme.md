@@ -7,9 +7,6 @@ local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singul
 ## documentations
 [Documentation PDF](https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/rbimgui-2-docs.pdf)
 
-## previews
-<img src="" width="45%" height="45%">
-
 ## example
 ```lua
 local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/rbimgui-2/main/rbimgui-2.lua"))()
@@ -99,3 +96,23 @@ end)
 
 folder1.open()
 ```
+## img previews
+<img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/iLft2Hl-2631006025%20(1).png">
+<br>
+<img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/CbyTtR7-289024873.png">
+<br>
+<img src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/kc8Ha3Y-3903281707.png?raw=true">
+## video previews
+<a href="https://gyazo.com/bbbd861e8316fceb5b092fb46be08f3b" target="_blank">
+<video width="320" height="240" controls>
+  <source src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/bbbd861e8316fceb5b092fb46be08f3b.mp4" type="video/mp4">
+  Video failed to load
+</video>
+</a>
+<br>
+<a href="https://gyazo.com/6e1eac900c292babacf3a69c8ab0fcbb" target="_blank">
+<video width="320" height="240" controls>
+  <source src="https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/media/6e1eac900c292babacf3a69c8ab0fcbb.mp4" type="video/mp4">
+  Video failed to load
+</video>
+</a>
