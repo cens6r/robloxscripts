@@ -4,6 +4,8 @@ roblox user interface engine
 ```lua
 local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/rbimgui-2/main/rbimgui-2.lua"))()
 ```
+## documentations
+[Documentation PDF](https://github.com/cens6r/robloxscripts/blob/main/scripts/ui-libs/rbimgui-2/rbimgui-2-docs.pdf)
 ## example
 ```lua
 local engine = loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/rbimgui-2/main/rbimgui-2.lua"))()
